@@ -40,8 +40,6 @@ Inspired by the following works:
 - [Blog post](https://abhishek-maheshwarappa.medium.com/multi-arm-bandits-for-recommendations-and-a-b-testing-on-amazon-ratings-data-set-9f802f2c4073)
 - [RecoGym](https://github.com/criteo-research/reco-gym)
 
-![Offline then online](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bb18246a-c536-4cbc-919f-0d1108c9432b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210507%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210507T115825Z&X-Amz-Expires=86400&X-Amz-Signature=13fc58ac43e09545d5f334ca5c99a62cd9c83eee40f394b37b9fc53477f9ae82&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
-
 ## What is Bandit based Recommendation?
 Traditionally, the recommendation problem was considered as a simple classification or prediction problem; however, the sequential nature of the recommendation problem has been shown. Accordingly, it can be formulated as a Markov decision process (MDP) and reinforcement learning (RL) methods can be employed to solve it. In fact, recent advances in combining deep learning with traditional RL methods, i.e. deep reinforcement learning (DRL), has made it possible to apply RL to the recommendation problem with massive state and action spaces.
 
